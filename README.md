@@ -1,4 +1,4 @@
-# Hi there, I'm Jobaer Ahmed 👋
+# Hi there, I'm Jobaer Shuman 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jobaerahmed&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jobaerahmed)
