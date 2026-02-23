@@ -44,12 +44,12 @@ I am a passionate software engineer with over a decade of experience building sc
 ## 📈 GitHub Stats
 
 ![Jobaer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobaerahmed&show_icons=true&theme=radical)
-
+![Jobaer's GitHub stats]([https://github-readme-stats.vercel.app/api?username=jobaerahmed&show_icons=true&theme=radical](https://github-readme-stats-fast.vercel.app/api?username=shuman))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobaerahmed&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Get In Touch
 
-*   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jobaerahmed)
+*   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shuman)
 *   **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/jobaerahmed)
