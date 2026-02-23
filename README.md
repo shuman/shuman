@@ -49,29 +49,7 @@ I am a passionate software engineer with over a decade of experience building sc
 
 ---
 
-## 💼 Featured Projects
-
-### 🏗️ Multi-Platform API Server (SaaS)
-**Tech:** CakePHP, Node.js, AWS (EC2, Lambda, Beanstalk), Docker, Redis
-- Led the development of a high-traffic API server handling millions of requests.
-- Optimized data management and billing processes.
-- **[Live Demo](https://scoresmatter.co.uk)**
-
-### 🛒 Automated Order & Task System
-**Tech:** CodeIgniter, MySQL, Redis, Twig
-- Architected a scalable web portal for file distribution and invoicing.
-- Drove 75% business growth post-release.
-- **[Live Demo](https://cutoutimage.com)**
-
-### 🔌 WordPress Ecosystem Solutions
-**Tech:** WordPress, WooCommerce, REST API, React
-- Developed custom themes and plugins for 100+ clients.
-- Expertise in SEO optimization and secure payment gateway integration.
-
----
-
 ## 📫 Get In Touch
 
-*   **Email:** jobaer.shuman@gmail.com
 *   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jobaerahmed)
 *   **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/jobaerahmed)
