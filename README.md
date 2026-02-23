@@ -16,28 +16,42 @@ I am a passionate software engineer with over a decade of experience building sc
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stack
 
-### 🛠️ Languages & Frameworks
+### 🧠 Architecture & Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![SaaS_Architecture](https://img.shields.io/badge/SaaS_Architecture-1B2F3A?style=for-the-badge&logo=icloud&logoColor=white)
+![REST API](https://img.shields.io/badge/API_Architecture-C7C4BF?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
+
+### ⚡ Frontend & Full Stack
+![React](https://img.shields.io/badge/React_/_Next.js-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS_Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI_CD-1B2F3A?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
+### 🗄️ Data & Performance
+![MySQL](https://img.shields.io/badge/MySQL_/_PostgreSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🔐 Specialization
+![Payment_Systems](https://img.shields.io/badge/Secure_Payment_Systems-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
+![High_Traffic_Scaling](https://img.shields.io/badge/High_Traffic_Scaling-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Large_Scale_Databases](https://img.shields.io/badge/Large_Scale_Database_Architecture-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
