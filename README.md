@@ -27,6 +27,8 @@ I am a passionate software engineer with over a decade of experience building sc
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### 🗄️ Data & Storage
 ![MySQL](https://img.shields.io/badge/MySQL_/_PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,6 +46,13 @@ I am a passionate software engineer with over a decade of experience building sc
 ![REST_API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![High_Traffic](https://img.shields.io/badge/High_Traffic-FF6600?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+#### 🤖 AI Tools & Rapid Prototyping
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Base44](https://img.shields.io/badge/Base44-4F46E5?style=for-the-badge&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logoColor=white)
+![Cursor_AI](https://img.shields.io/badge/Cursor_AI-111827?style=for-the-badge&logoColor=white)
 
 
 ## 📈 GitHub Stats
