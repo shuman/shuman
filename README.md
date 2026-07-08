@@ -4,16 +4,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jobaerahmed)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-success)](https://www.upwork.com/freelancers/jobaerahmed)
 
-> **Innovative Senior Full-Stack Web Developer | 14+ Years Experience | Cloud & DevOps Enthusiast**
+> **Senior Full-Stack Engineer | SaaS Architect | Payment Systems Specialist | 15+ Years Experience**
 
-I am a passionate software engineer with over a decade of experience building scalable, high-performance web applications. I specialize in bridging the gap between complex backend logic and seamless frontend experiences, with a strong focus on Cloud Infrastructure (AWS) and secure payment systems.
+I’m a software engineer with 15+ years of experience designing, building, and scaling production web applications. I specialize in backend architecture, SaaS platforms, API development, and secure payment integrations.
 
-- 🔭 I’m currently working on: **High-traffic SaaS platforms and API Servers**
-- 🌱 I’m currently mastering: **Advanced DevOps pipelines and Serverless Architectures**
-- 👯 I’m looking to collaborate on: **Open source Laravel and Node.js projects**
-- 💬 Ask me about: **Scaling large databases, AWS Lambda, and WordPress Customization**
-- ⚡ Fun fact: **I have logged over 20,000+ hours on Upwork delivering client solutions.**
-
+Over the years, I have helped businesses transform ideas into reliable products, from MVP development to high-traffic systems handling complex workflows. My experience includes fintech solutions, payment gateways, enterprise applications, automation, workflow engineering and modern cloud-based platforms.
+- 🔭 Currently building: **SaaS products, scalable APIs, and cloud-native applications**
+- 💳 Experienced with: **Stripe, payment gateways, 3DS authentication, and transaction workflows**
+- 🏗️ Architecture focus: **Clean backend design, performance optimization, and system reliability**
+- 🚀 Modern stack: **Laravel, Node.js, Next.js, React, AWS, Docker, PostgreSQL**
+- 🤖 Exploring: **AI-assisted development, automation, and rapid product engineering**
+- ⚡ Highlight: **22,000+ Upwork hours** delivering production solutions for global clients
+  
 ---
 
 ## 🛠️ Tech Stack & Architecture
