@@ -1,7 +1,7 @@
 # Hi there, I'm Jobaer Shuman 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jobaerahmed&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jobaerahmed)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jobaerahmed) -->
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-success)](https://www.upwork.com/freelancers/jobaerahmed)
 
 > **Senior Full-Stack Engineer | SaaS Architect | Payment Systems Specialist | 15+ Years Experience**
@@ -66,5 +66,5 @@ Over the years, I have helped businesses transform ideas into reliable products,
 
 ## 📫 Get In Touch
 
-*   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shuman)
+<!-- *   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shuman) -->
 *   **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/jobaerahmed)
